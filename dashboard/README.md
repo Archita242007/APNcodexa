@@ -1,4 +1,4 @@
-# 🚨 ResQAI — AI-Powered Crisis Response System
+# 🚨 ResQAI — Real Time Crisis Response System
 
 > **ResQAI** is a technology-driven emergency response platform designed to improve disaster awareness, emergency communication, and coordination between citizens and response teams.
 
